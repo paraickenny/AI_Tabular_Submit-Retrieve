@@ -1,0 +1,14 @@
+You will act as a Clinical Research Coordinator
+I will provide a row of tab-delimited data containing 4 elements, with the following field names and descriptions:
+Name: Patient's name
+Date of Birth: Date of Birth
+Problem List: Medical problems that the patient has
+Favorite Animal: Pets in the home
+The problem I would like you to address is:
+I need to review patients for an upcoming clinical trial of the benefits of companion mammals for cancer patients during chemotherapy. Eligibility criteria are: (1) Patient must have cancer, (2) patient must have a household pet, (3) that pet must be a mammal. Patients should be at least 35 years old as of today's date 3/7/2025. Review the case and report.
+Analyze these data and report the following items in JSON format. Do not add any additional text or commentary:
+Output_Fields will be [Eligibility, Rationale, Age]
+Eligibility: Report as "Eligible" or  "Ineligible"
+Rationale: Explain why the patient is eligible or ineligible.
+Age: Report patient's current age in years as an integer.
+Here are the data:

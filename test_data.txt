@@ -1,0 +1,64 @@
+Name	Medical Record Number	Date of Birth	Problem List	Favorite Animal
+John Doe	1234501234	03/15/1950	Hypertension, Diabetes, Asthma, Breast Cancer	Dog
+Jane Smith	1234505678	07/22/1985	Cancer (Lung), Chronic Pain, Anxiety	Cat
+Emily Johnson	1234509876	11/30/1972	Heart Disease, Obesity, Depression, Skin Cancer	Fish
+Michael Brown	1234505432	01/05/1965	Hypertension, Cancer (Prostate), Arthritis	Hamster
+Sarah Davis	1234506789	09/12/1990	Diabetes, Anxiety, Chronic Pain, Colorectal Cancer	Rabbit
+David Wilson	1234502345	02/18/1940	Heart Disease, Cancer (Breast), Obesity	Parrot
+Laura Garcia	1234503456	06/25/1980	Chronic Pain, Depression, Hypertension, Skin Cancer	Guinea Pig
+James Martinez	1234504567	12/01/1955	Diabetes, Asthma, Cancer (Lung)	Dog
+Patricia Rodriguez	1234505670	04/10/1968	Heart Disease, Anxiety, Obesity, Chronic Pain	Cat
+Robert Lee	1234506781	08/15/1975	Cancer (Prostate), Chronic Pain, Depression	Fish
+Linda Walker	1234507892	05/20/1982	Hypertension, Diabetes, Arthritis, Breast Cancer	Hamster
+William Hall	1234508903	10/30/1945	Heart Disease, Cancer (Colorectal), Anxiety	Rabbit
+Elizabeth Allen	1234509014	03/22/1995	Chronic Pain, Depression, Obesity, Skin Cancer	Parrot
+Charles Young	1234500123	07/14/1960	Diabetes, Asthma, Cancer (Lung)	Guinea Pig
+Jessica Hernandez	1234501234	11/09/1988	Hypertension, Anxiety, Chronic Pain, Breast Cancer	Dog
+Daniel King	1234502345	01/25/1952	Heart Disease, Cancer (Prostate), Depression	Cat
+Susan Wright	1234503456	09/03/1978	Diabetes, Chronic Pain, Obesity, Colorectal Cancer	Fish
+Matthew Scott	1234504567	02/28/1963	Cancer (Skin), Hypertension, Anxiety	Hamster
+Karen Green	1234505678	06/12/1981	Heart Disease, Depression, Obesity, Lung Cancer	Rabbit
+Joseph Adams	1234506789	12/05/1948	Diabetes, Cancer (Breast), Chronic Pain	Parrot
+Nancy Baker	1234507890	04/17/1970	Hypertension, Anxiety, Arthritis, Skin Cancer	Guinea Pig
+Christopher Gonzalez	1234508901	08/21/1957	Heart Disease, Cancer (Colorectal), Depression	Dog
+Sarah Nelson	1234509012	05/30/1984	Diabetes, Chronic Pain, Anxiety, Breast Cancer	Cat
+Anthony Carter	1234500123	10/11/1969	Cancer (Lung), Hypertension, Obesity	Fish
+Angela Mitchell	1234501234	03/08/1992	Heart Disease, Anxiety, Chronic Pain, Prostate Cancer	Hamster
+Mark Perez	1234502345	07/19/1953	Diabetes, Cancer (Skin), Depression	Rabbit
+Deborah Roberts	1234503456	11/27/1986	Hypertension, Chronic Pain, Obesity, Lung Cancer	Parrot
+Kevin Turner	1234504567	01/15/1961	Heart Disease, Cancer (Breast), Anxiety	Guinea Pig
+Jessica Phillips	1234505678	09/24/1974	Diabetes, Chronic Pain, Depression, Colorectal Cancer	Dog
+Brian Campbell	1234506789	02/14/1959	Cancer (Prostate), Hypertension, Obesity	Cat
+Lisa Parker	1234507890	06/06/1983	Heart Disease, Anxiety, Chronic Pain, Skin Cancer	Fish
+Jason Evans	1234508901	12/18/1943	Diabetes, Cancer (Lung), Depression	Hamster
+Michelle Edwards	1234509012	04/22/1971	Hypertension, Chronic Pain, Obesity, Breast Cancer	Rabbit
+Thomas Collins	1234500123	08/09/1966	Cancer (Colorectal), Heart Disease, Anxiety	Parrot
+Laura Stewart	1234501234	05/11/1987	Diabetes, Chronic Pain, Depression, Lung Cancer	Guinea Pig
+Eric Sanchez	1234502345	10/02/1954	Hypertension, Cancer (Breast), Obesity	Dog
+Megan Morris	1234503456	03/19/1989	Heart Disease, Anxiety, Chronic Pain, Skin Cancer	Cat
+Daniel Rogers	1234504567	07/27/1962	Cancer (Prostate), Diabetes, Depression	Fish
+Rebecca Reed	1234505678	11/15/1975	Hypertension, Chronic Pain, Obesity, Colorectal Cancer	Hamster
+Paul Cook	1234506789	01/04/1949	Heart Disease, Cancer (Lung), Anxiety	Rabbit
+Angela Morgan	1234507890	09/20/1980	Diabetes, Chronic Pain, Depression, Breast Cancer	Parrot
+Steven Bell	1234508901	02/26/1967	Cancer (Skin), Hypertension, Obesity	Guinea Pig
+Kimberly Murphy	1234509012	06/14/1991	Heart Disease, Anxiety, Chronic Pain, Lung Cancer	Dog
+Matthew Rivera	1234500123	12/09/1956	Diabetes, Cancer (Colorectal), Depression	Cat
+Samantha Cooper	1234501234	04/30/1973	Hypertension, Chronic Pain, Obesity, Breast Cancer	Fish
+Brian Bailey	1234502345	08/17/1964	Cancer (Prostate), Heart Disease, Anxiety	Hamster
+Jessica Gonzalez	1234503456	05/23/1985	Diabetes, Chronic Pain, Depression, Skin Cancer	Rabbit
+David Ramirez	1234504567	10/12/1947	Hypertension, Cancer (Lung), Obesity	Parrot
+Emily Jenkins	1234505678	03/05/1988	Heart Disease, Anxiety, Chronic Pain, Colorectal Cancer	Guinea Pig
+Christopher Long	1234506789	07/29/1951	Cancer (Breast), Diabetes, Depression	Dog
+Ashley Simmons	1234507890	11/11/1979	Hypertension, Chronic Pain, Obesity, Lung Cancer	Cat
+Daniel Foster	1234508901	01/22/1968	Cancer (Prostate), Heart Disease, Anxiety	Fish
+Laura Wood	1234509012	06/15/1986	Diabetes, Chronic Pain, Depression, Skin Cancer	Hamster
+James Kelly	1234500123	12/04/1946	Hypertension, Cancer (Colorectal), Obesity	Rabbit
+Emily Sanders	1234501234	04/19/1977	Heart Disease, Anxiety, Chronic Pain, Breast Cancer	Parrot
+Christopher Morris	1234502345	08/22/1960	Cancer (Lung), Diabetes, Depression	Guinea Pig
+Angela Price	1234503456	05/09/1989	Hypertension, Chronic Pain, Obesity, Skin Cancer	Dog
+Matthew Cooper	1234504567	10/26/1952	Cancer (Prostate), Heart Disease, Anxiety	Cat
+Jessica Murphy	1234505678	03/11/1985	Diabetes, Chronic Pain, Depression, Colorectal Cancer	Fish
+Brian Bell	1234506789	07/30/1963	Hypertension, Cancer (Breast), Obesity	Hamster
+Kimberly Rivera	1234507890	11/02/1974	Heart Disease, Anxiety, Chronic Pain, Lung Cancer	Rabbit
+David Martinez	1234508901	01/17/1957	Cancer (Skin), Diabetes, Depression	Parrot
+Laura Johnson	1234509012	09/28/1980	Hypertension, Chronic Pain, Obesity, Breast Cancer	Guinea Pig
